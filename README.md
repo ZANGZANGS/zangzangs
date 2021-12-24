@@ -1,6 +1,8 @@
 # ZANGZANGS 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZANGZANGS&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ZANGZANGS) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@gmail.com) 
+[![Mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@naver.com)
+
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@gmail.com) -->
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/아이디) -->
 
 
