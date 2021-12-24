@@ -3,7 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@gmail.com) 
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/아이디) -->
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zangzangs.tistory.com/)
+
+[![Tistory Badge](https://img.shields.io/badge/Tistory%20Tech%20Blog-555263?style=for-the-badge&logo=Storyblok&logoColor=white)](https://zangzangs.tistory.com/)
+
+
 
   
 ### Who Am I
