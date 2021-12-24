@@ -1,16 +1,29 @@
-### Hi there 👋
+# ZANGZANGS 😉
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZANGZANGS&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ZANGZANGS) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@gmail.com) 
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://kimjangh94.tistory.com/)
+<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/아이디) -->
+  
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjangh94">
+
+- 🌱 주로 공부하는 것들 `Java`, `Spring Boot`, `Algorithm` 
+- 🚅 서울에 살고 있습니다.
+
+### Experience
+
+- 🎓 명지대학교 , 정보통신공학과 (2014.03 ~ 2020.02)
+- 🏢 에프에이솔루션 (2019.03 ~ 2021.09)
+- 😂 백수 (2021.10 ~ )
 
 
-**ZANGZANGS/zangzangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zangzangs" height="165">
 
-Here are some ideas to get you started:
+### What I Like
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📺 넷플릭스
+- 🍗 치킨
+- 💪 운동
 
