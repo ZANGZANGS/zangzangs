@@ -1,9 +1,10 @@
 # ZANGZANGS 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZANGZANGS&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ZANGZANGS) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kimjangh94@gmail.com) 
-
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://kimjangh94.tistory.com/)
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/아이디) -->
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://zangzangs.tistory.com/)
+
   
 ### Who Am I
 
@@ -26,4 +27,3 @@
 - 📺 넷플릭스
 - 🍗 치킨
 - 💪 운동
-
