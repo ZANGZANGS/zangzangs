@@ -16,7 +16,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjangh94">
 
 - 🌱 주로 공부하는 것 `Java`, `Spring Boot`, `Algorithm` 
-- 🚅 서울 관악구에 거중입니다.
+- 🚅 서울에 거중입니다.
 
 ### Experience
 
